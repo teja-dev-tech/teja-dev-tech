@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react , next.js , tailwind**
 
-- ⚡ Favourite Quote: **An idiot admires complexity , a genius admires simplicity**
+- ⚡ Favourite Quote: **Every expert was once a beginner**
 
 
 
