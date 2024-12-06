@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Durga Teja Pusarla</h1>
-<h3 align="center">A curious and enthusiastic web developer and final year computer science student</h3>
+<h3 align="center">A curious and enthusiastic web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teja-dev-tech&label=Profile%20views&color=0e75b6&style=flat" alt="teja-dev-tech" /> </p>
 
-- 🌱 I’m currently learning **blockchain and web3**
+- 🌱 I’m currently learning **full stack web development**
 
 - 💬 Ask me about **react , next.js , tailwind**
 
